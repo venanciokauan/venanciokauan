@@ -38,21 +38,11 @@ Tenho interesse em desenvolvimento front-end e back-end, criação de aplicaçõ
 **Banco de dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-## 🚀 Projetos em destaque
-
-### MyDashboard
-Dashboard financeiro com visualização de informações e interface moderna.
-
-### Aplicações Full Stack
-Projetos web com interfaces responsivas, operações CRUD e integração com banco de dados.
-
-> Adicione os links dos repositórios e demonstrações dos projetos acima.
 
 ## 🎓 Formação
 
-- **Engenharia de Software** — Uninter
+- **Engenharia de Software** — Uninter (Cursando).
 - **Técnico em Informática para Internet** — ETEC Prof. Maria Cristina Medeiros (ETEC MCM)
 
 ## 🎯 Objetivo profissional
