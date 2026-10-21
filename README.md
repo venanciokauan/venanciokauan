@@ -1,4 +1,4 @@
-# Olá, eu sou o Kauan Rodrigues 👋
+# Olá, eu sou o Kauan Venancio 👋
 
 ### 💻 Desenvolvedor Full Stack | Engenharia de Software
 
