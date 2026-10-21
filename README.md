@@ -160,3 +160,4 @@ save("h-manifesto.svg", header("[04]", "MANIFESTO", "SYS/TXT"))
 save("h-sinal.svg", header("[05]", "SINAL", "SYS/COM"))
 save("modules.svg", modules())
 print("ok")
+
