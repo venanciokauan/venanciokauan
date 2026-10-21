@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Kauan Rodrigues 👋
 
-<!--
-**venanciokauan/venanciokauan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Full Stack | Engenharia de Software
 
-Here are some ideas to get you started:
+Desenvolvedor focado na criação de aplicações web modernas, funcionais e responsivas. Busco evoluir constantemente por meio de projetos práticos, boas práticas de programação e novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação
+- **Engenharia de Software** — Uninter
+- **Técnico em Informática para Internet** — ETEC Prof. Maria Cristina Medeiros (ETEC MCM)
+
+### 🛠️ Tecnologias
+JavaScript · React · HTML5 · CSS3 · Python · Java · PHP · MySQL
+
+### 🚀 Objetivo
+Desenvolver soluções que unam tecnologia, funcionalidade e boa experiência do usuário, contribuindo para projetos reais e crescendo profissionalmente na área de desenvolvimento de software.
+
+### 📌 Projetos em destaque
+- **MyDashboard:** dashboard financeiro com visualização de dados e interface moderna.
+- **Aplicações Web:** projetos com React, interfaces responsivas, integração com banco de dados e funcionalidades CRUD.
+
+---
+📍 Brasil · Aberto a oportunidades de desenvolvimento
