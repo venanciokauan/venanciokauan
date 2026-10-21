@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kauan Rodrigues
+# Kauan Venancio
 
 ### Desenvolvedor de Software | Full Stack
 
