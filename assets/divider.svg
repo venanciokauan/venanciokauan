@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-labelledby="kvdiv-t kvdiv-d">
+<title id="kvdiv-t">Divisor</title>
+<desc id="kvdiv-d">Linha técnica decorativa com marca //.</desc>
+<path d="M0,12 H1200" stroke="#8B929C" stroke-width="1.5" opacity="0.55"/>
+<path d="M120,9 V15 M160,9 V15 M200,9 V15 M240,9 V15 M280,9 V15 M320,9 V15 M360,9 V15 M400,9 V15 M440,9 V15 M480,9 V15 M520,9 V15 M560,9 V15 M600,9 V15 M640,9 V15 M680,9 V15 M720,9 V15 M760,9 V15 M800,9 V15 M840,9 V15 M880,9 V15 M920,9 V15 M960,9 V15 M1000,9 V15 M1040,9 V15 M1080,9 V15 M1120,9 V15 M1160,9 V15 " stroke="#8B929C" stroke-width="1.5" opacity="0.4"/>
+<rect x="0" y="2" width="72" height="20" fill="#08090B"/>
+<path d="M24.24,6.00 L27.12,6.00 L20.88,18.00 L18.00,18.00 Z M35.28,6.00 L38.16,6.00 L31.92,18.00 L29.04,18.00 Z" fill="#C7FF4A"/>
+</svg>

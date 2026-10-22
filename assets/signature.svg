@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-labelledby="kvsig-t kvsig-d">
+<title id="kvsig-t">KV//OS, Kauan Venancio</title>
+<desc id="kvsig-d">Assinatura em rodapé com a marca KV//OS e o nome Kauan Venancio.</desc>
+<defs><linearGradient id="chr" gradientUnits="userSpaceOnUse" x1="0" y1="44.00" x2="0" y2="94.00"><stop offset="0" stop-color="#F0F2F4"/><stop offset="0.46" stop-color="#9AA1AA"/><stop offset="0.5" stop-color="#4B5058"/><stop offset="0.56" stop-color="#B9BFC6"/><stop offset="1" stop-color="#E4E7EA"/></linearGradient></defs>
+<rect width="1200" height="140" fill="#08090B"/>
+<rect x="0" y="0" width="160" height="4" fill="#C7FF4A"/>
+<path d="M0,132 H1200" stroke="#2A2F36" stroke-width="1.5"/>
+<path d="M48.00,44.00 L60.00,44.00 L60.00,94.00 L48.00,94.00 Z M60.00,63.50 L78.00,44.00 L92.00,44.00 L68.00,69.50 L60.00,71.00 Z M60.00,67.00 L68.00,68.50 L92.00,94.00 L78.00,94.00 L60.00,74.50 Z M100.00,44.00 L113.50,44.00 L128.50,94.00 L115.50,94.00 Z M128.50,94.00 L115.50,94.00 L130.50,44.00 L144.00,44.00 Z" fill="url(#chr)"/>
+<path d="M178.00,44.00 L190.00,44.00 L164.00,94.00 L152.00,94.00 Z M224.00,44.00 L236.00,44.00 L210.00,94.00 L198.00,94.00 Z" fill="#C7FF4A"/>
+<path d="M253.00,44.00 L279.00,44.00 L288.00,53.00 L288.00,85.00 L279.00,94.00 L253.00,94.00 L244.00,85.00 L244.00,53.00 Z M256.00,83.00 L276.00,83.00 L276.00,55.00 L256.00,55.00 Z M305.00,44.00 L340.00,44.00 L340.00,55.00 L296.00,55.00 L296.00,53.00 Z M296.00,53.00 L308.00,53.00 L308.00,70.50 L296.00,70.50 Z M296.00,63.50 L340.00,63.50 L340.00,74.50 L296.00,74.50 Z M328.00,67.50 L340.00,67.50 L340.00,85.00 L328.00,85.00 Z M296.00,83.00 L340.00,83.00 L340.00,85.00 L331.00,94.00 L296.00,94.00 Z" fill="url(#chr)"/>
+<text x="1152" y="62" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" fill="#F0F2F4">Kauan Venancio</text>
+<text x="1152" y="96" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8B929C">gerado por tools/gerar_assets.py</text>
+</svg>
